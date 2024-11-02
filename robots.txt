@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewagaaxe.github.io/AIe/sitemap_index.txt
+Sitemap: https://ewagaaxe.github.io/Phi/sitemap_index.txt
+Sitemap: https://ewagaaxe.github.io/UnF/sitemap_index.txt
+Sitemap: https://ewagaaxe.github.io/mnj/sitemap_index.txt
